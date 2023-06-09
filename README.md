@@ -56,4 +56,16 @@ Certifique-se de fornecer os parâmetros corretos e o formato de dados adequado 
 
 ## Contribuindo
 
-Se você quiser contribuir
+Se você quiser contribuir para o projeto, fique à vontade para enviar pull requests. Sinta-se livre para corrigir bugs, adicionar novos recursos ou melhorar a documentação. 
+
+Antes de enviar um pull request, certifique-se de seguir as boas práticas de desenvolvimento, como escrever testes unitários, manter o código limpo e aderir às diretrizes de estilo de código. 
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT) - fique à vontade para usar, modificar e distribuir o código de acordo com os termos da licença.
+
+## Contato
+
+Se você tiver alguma dúvida, sugestão ou problema relacionado ao projeto, sinta-se à vontade para entrar em contato. Você pode me encontrar pelo e-mail [seu-email@example.com] ou criar uma issue neste repositório.
+
+Espero que este projeto seja útil como ponto de partida para o desenvolvimento de APIs com C# e Entity Framework. Divirta-se codificando!
