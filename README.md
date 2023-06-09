@@ -66,6 +66,6 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou problema relacionado ao projeto, sinta-se à vontade para entrar em contato. Você pode me encontrar pelo e-mail [seu-email@example.com] ou criar uma issue neste repositório.
+Se você tiver alguma dúvida, sugestão ou problema relacionado ao projeto, sinta-se à vontade para entrar em contato. Você pode me encontrar pelo e-mail 'wallace.vilela9@outlook.com' ou criar uma issue neste repositório.
 
 Espero que este projeto seja útil como ponto de partida para o desenvolvimento de APIs com C# e Entity Framework. Divirta-se codificando!
